@@ -6,7 +6,7 @@ original: https://www.netflix.com/
 
 ###How to clone?
 
-git clone 
+git clone https://github.com/luisjeremias/netflix-landing-page 
 
 
 ###how i maked?
